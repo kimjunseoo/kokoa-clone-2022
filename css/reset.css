@@ -1,3 +1,7 @@
+a {
+  text-decoration: none;
+}
+
 /*When you click, it dosen't show outlone*/
 input:focus {
   outline: none;
