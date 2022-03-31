@@ -1,0 +1,14 @@
+.dot {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 2.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 400;
+  color: white;
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+}
