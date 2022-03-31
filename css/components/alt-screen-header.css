@@ -20,3 +20,6 @@
     margin-left: auto;
 }
 
+.alt-header__column-icon:last-child {
+    margin-left: 20px;
+}
